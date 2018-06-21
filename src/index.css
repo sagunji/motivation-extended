@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width: 500px;
+  height: 400px;
+}
+.block {
+  width: 100px;
+}
